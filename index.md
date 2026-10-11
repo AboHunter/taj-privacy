@@ -8,7 +8,7 @@ title: "Taj — Privacy Policy | سياسة الخصوصية"
 - **Contact / التواصل:** <span dir="ltr">tajquranai@gmail.com</span>
 - **Published at / منشورة على:** <span dir="ltr">https://abohunter.github.io/taj-privacy/</span>
 
-> This page is written for the Google Play listing of **Taj (com.taj.quran)**.
+> This page is written for the Google Play listing of **Taj (app.tajai.TajAi)**.
 > The Arabic text is the primary version; the English text follows it.
 
 ---

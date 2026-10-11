@@ -4,9 +4,9 @@ title: "Taj — Privacy Policy | سياسة الخصوصية"
 
 # سياسة الخصوصية — تاج | Taj Privacy Policy
 
-**Effective date / تاريخ السريان:** 2026-10-11
-**Contact / التواصل:** tajquranai@gmail.com
-**Published at / منشورة على:** https://abohunter.github.io/taj-privacy/ (the copy of this file in the public repo `AboHunter/taj-privacy`; keep both in sync)
+- **Effective date / تاريخ السريان:** <span dir="ltr">2026-10-11</span>
+- **Contact / التواصل:** <span dir="ltr">tajquranai@gmail.com</span>
+- **Published at / منشورة على:** <span dir="ltr">https://abohunter.github.io/taj-privacy/</span>
 
 > This page is written for the Google Play listing of **Taj (com.taj.quran)**.
 > The Arabic text is the primary version; the English text follows it.
